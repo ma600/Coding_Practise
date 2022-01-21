@@ -1,3 +1,4 @@
+# A program to return 0 if their is number 100 in the list and also return total number of digits that are divisible by 5 in the list.  
 def list_divisible_by_5 ( my_list ):
     count = 0
     for num in my_list:
